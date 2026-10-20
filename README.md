@@ -64,11 +64,16 @@ IT Professional specialized in **Cloud Infrastructure and Modern Workplace / End
 
 ---
 
-### 📊 Métricas & Produtividade / Metrics
+### 📊 Atividade & Métricas / Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rsbezerra07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=rsbezerra07&theme=tokyonight&hide_border=true&border_radius=8" alt="Sequência de Commits" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rsbezerra07&show_icons=true&bg_color=0b0f19&title_color=50E6FF&text_color=ffffff&icon_color=0078D4&border_color=1e293b&hide_border=true&include_all_commits=true&count_private=true" height="155" alt="GitHub Stats" />&nbsp;<img src="https://streak-stats.demolab.com?user=rsbezerra07&background=0b0f19&ring=0078D4&fire=50E6FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=50E6FF&sideLabels=50E6FF&dates=94a3b8&hide_border=true&border_radius=8" height="155" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsbezerra07&layout=compact&bg_color=0b0f19&title_color=50E6FF&text_color=ffffff&border_color=1e293b&hide_border=true" height="155" alt="Top Languages" />
 </div>
 
 <br/>
